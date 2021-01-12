@@ -63,7 +63,7 @@
     "ipaddr.js": "^1.9.0",
     "isomorphic-fetch": "^2.2.1",
     "js-yaml": "^3.13.0",
-    "knex": "^0.12.9",
+    "knex": "^0.19.5",
     "localforage": "^1.7.3",
     "lodash.merge": "^4.6.1",
     "lodash.union": "^4.6.0",
